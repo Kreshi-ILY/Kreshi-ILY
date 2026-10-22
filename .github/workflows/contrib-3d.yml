@@ -29,4 +29,3 @@ jobs:
           if git commit -m "Update 3D contribution graph"; then
             git push
           fi
-
