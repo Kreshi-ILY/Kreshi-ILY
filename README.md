@@ -121,6 +121,18 @@ Between physics, chemistry and maths, I build web apps, tools and bots, automate
 
 ---
 
+<h2 align="center">👾 Pac-Man</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kreshi-ILY/Kreshi-ILY/output/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kreshi-ILY/Kreshi-ILY/output/pacman.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Kreshi-ILY/Kreshi-ILY/output/pacman-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 <h2 align="center">🎧 What I'm Listening To</h2>
 
 <div align="center">
