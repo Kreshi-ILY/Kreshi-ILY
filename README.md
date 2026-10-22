@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=E0245E&center=true&vCenter=true&width=650&height=60&lines=Hey+%F0%9F%91%8B+I'm+Sarthak;aka+Deadly;Full-Stack+Developer+%26+Night+Owl;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Quiet+keyboard%2C+loud+commits" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=E0245E&center=true&vCenter=true&width=650&height=60&lines=Hey+%F0%9F%91%8B+I'm+Sarthak;aka+Deadly;17+%C2%B7+PCM+Student+%26+Developer;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Quiet+keyboard%2C+loud+commits" alt="Typing intro" />
 
 <p align="center">
-  <b>Full-Stack Developer · Night Owl · Let the code do the talking</b>
+  <b>17 · Class 11 PCM Student · Full-Stack Developer</b>
 </p>
 
 <img src="https://img.shields.io/badge/Discord-deadly7.0__-8b0000?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" alt="Discord" />
 <a href="https://github.com/LastArk123">
   <img src="https://img.shields.io/badge/GitHub-LastArk123-e0245e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
+</a>
+<a href="https://open.spotify.com/user/31iqqmqrxor2z6s6affht2xzv6ji">
+  <img src="https://img.shields.io/badge/Spotify-Listening-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1a1a" alt="Spotify" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=LastArk123&label=Profile+Views&color=8b0000&style=for-the-badge" alt="Profile views" />
 
@@ -23,8 +26,8 @@
 <h2 align="center">🩸 About Me</h2>
 
 <p align="left">
-I'm Sarthak, aka Deadly. I'm an introvert who'd rather let the code do the talking. I build web apps,
-tools and bots, automate the boring stuff, and dig into how things work under the hood.
+I'm Sarthak, aka Deadly. I'm a 17-year-old Class 11 PCM student and an introvert who'd rather let the code do the talking.
+Between physics, chemistry and maths, I build web apps, tools and bots, automate the boring stuff, and dig into how things work under the hood.
 </p>
 
 - 🔭 **Currently working with**: Next.js, React, TypeScript, Node.js
@@ -97,7 +100,10 @@ tools and bots, automate the boring stuff, and dig into how things work under th
     <td align="left">🔨 &nbsp;I break things on purpose. It's the fastest way to learn how they work</td>
   </tr>
   <tr>
-    <td align="left">🎧 &nbsp;Music is always on while I code</td>
+    <td align="left">📚 &nbsp;Switching between maths problems and debugging is my daily workout</td>
+  </tr>
+  <tr>
+    <td align="left">🎧 &nbsp;Music is always on while I code (proof is further down)</td>
   </tr>
 </table>
 
@@ -127,10 +133,23 @@ tools and bots, automate the boring stuff, and dig into how things work under th
 
 ---
 
+<h2 align="center">🎧 What I'm Listening To</h2>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31iqqmqrxor2z6s6affht2xzv6ji">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iqqmqrxor2z6s6affht2xzv6ji&count=5" alt="Spotify recently played" />
+  </a>
+</div>
+
+---
+
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo" />
+  <a href="https://open.spotify.com/user/31iqqmqrxor2z6s6affht2xzv6ji" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/src/assets/icons/social/spotify/default.svg" width="55" height="40" alt="spotify logo" />
+  </a>
   <a href="https://github.com/LastArk123" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo" />
   </a>
