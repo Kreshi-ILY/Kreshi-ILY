@@ -113,11 +113,9 @@ Between physics, chemistry and maths, I build web apps, tools and bots, automate
 
 <h2 align="center">🔥 Contribution Streak</h2>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kreshi-ILY&locale=en&mode=daily&hide_border=false&border_radius=5&background=0d1117&border=30363d&ring=e0245e&fire=e0245e&currStreakNum=ffffff&sideNums=e0245e&currStreakLabel=e0245e&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" height="180" alt="streak graph" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kreshi-ILY&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
