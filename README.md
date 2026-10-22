@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=E0245E&center=true&vCenter=true&width=650&height=60&lines=Hey+%F0%9F%91%8B+I'm+Sarthak+Kashyap;17y'o+%C2%B7+PCM+%2B+CS+Student;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;+I+Like+To+Have+Long+Convo%2C+With+My+Ppls" alt="Typing intro" />
 
 <p align="center">
-  <b>17 · Class 11 PCM + Computer Science Student · Full-Stack Developer</b>
+  <b>17y'o · Class 11th PCM + Computer Science Student · Full-Stack Developer</b>
 </p>
 
 <img src="https://img.shields.io/badge/Discord-deadly7.0__-8b0000?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" alt="Discord" />
