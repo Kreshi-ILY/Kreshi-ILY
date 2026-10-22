@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=E0245E&center=true&vCenter=true&width=650&height=60&lines=Hey+%F0%9F%91%8B+I'm+Sarthak;aka+Deadly;17+%C2%B7+PCM+%2B+CS+Student;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Quiet+keyboard%2C+loud+commits" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=E0245E&center=true&vCenter=true&width=650&height=60&lines=Hey+%F0%9F%91%8B+I'm+Sarthak+Kashyap;aka+Deadly;17y'o+%C2%B7+PCM+%2B+CS+Student;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;I+Like+To+Have+Long+Convo%2C+With+My+People" alt="Typing intro" />
 
 <p align="center">
   <b>17 · Class 11 PCM + Computer Science Student · Full-Stack Developer</b>
