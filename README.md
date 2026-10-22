@@ -149,7 +149,7 @@ Between physics, chemistry and maths, I build web apps, tools and bots, automate
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/src/assets/icons/social/spotify/default.svg" width="55" height="40" alt="spotify logo" />
   </a>
 <a href="https://github.com/Kreshi-ILY">
-  <img src="https://cdn.simpleicons.org/github/white" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/github/white" width="48" height="48" />
 </a>
 </div>
 
