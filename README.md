@@ -1,31 +1,44 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Pacific Deadly — LastArk123" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="Pacific Deadly (LastArk123): a PowerShell window scanning this profile" src="assets/hero-light.svg" width="100%">
 </picture>
 
-I'm Deadly. I write small PowerShell tools for Minecraft server staff: scripts you run on a player's PC during a screenshare to see what their client is really loading.
-
-I'm an introvert and I build with AI help. The tools are things I needed, so I kept them.
+I'm Deadly. I write small PowerShell tools for Minecraft server staff. You run them on a player's PC during a screenshare and they show you what the client is really loading.
 
 &nbsp;
 
-### What I've built
+### Tools
 
-**[DeadlyModAnalyzer](https://github.com/LastArk123/DeadlyModAnalyzer)**
-Reads a `mods` folder, hashes every jar and checks it against Modrinth. A jar that matches its published release is marked verified. A jar that doesn't gets scanned for known cheat-client signatures. It also checks whether the running game was launched with `-Dfabric.addMods`, which loads mods from outside the folder you're looking at.
+<p>
+  <a href="https://github.com/LastArk123/DeadlyModAnalyzer"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-modanalyzer-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-modanalyzer-light.svg">
+    <img alt="DeadlyModAnalyzer: checks a mods folder against Modrinth hashes and known cheat-client signatures" src="assets/card-modanalyzer-light.svg" width="49%">
+  </picture></a>
+  <a href="https://github.com/LastArk123/WeHateFakers"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-wehatefakers-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-wehatefakers-light.svg">
+    <img alt="WeHateFakers: looks for phone-hotspot use in Windows Wi-Fi history" src="assets/card-wehatefakers-light.svg" width="49%">
+  </picture></a>
+</p>
 
-**[WeHateFakers](https://github.com/LastArk123/WeHateFakers)**
-Looks through the last 24 hours of Wi-Fi history for signs that a player was on a phone hotspot, built to catch fakers. Writes an HTML report.
+Both are one Windows PowerShell file each, with nothing to install:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\DeadlyModAnalyzer.ps1
+```
+
+A flagged result is a lead to look into, not proof. Each README explains what can trigger a false positive.
 
 &nbsp;
 
-### Working notes
+### Next
 
-Both are Windows PowerShell, single files, no install: run the script, read the output. Both are built on other people's earlier work and say so in their READMEs.
-
-[DeadlyDDFinder](https://github.com/LastArk123/DeadlyDDFinder) is an empty repo for the next one.
+[DeadlyDDFinder](https://github.com/LastArk123/DeadlyDDFinder) is still empty. The next tool will go there.
 
 &nbsp;
 
-<sub>Nothing else is public yet. When there is, it'll go above this line.</sub>
+### Credits
+
+I'm an introvert and I build with AI help. Both tools grew out of other people's work: DeadlyModAnalyzer builds on scripts by Hadron, TonyNoh and YarpLetapStan, and WeHateFakers is credited to lily. The full credits are in each repo.
