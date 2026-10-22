@@ -121,18 +121,6 @@ Between physics, chemistry and maths, I build web apps, tools and bots, automate
 
 ---
 
-<h2 align="center">🌆 Contribution City</h2>
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-deadly.svg" alt="3D contribution graph" width="100%" />
-
-<sub>Rebuilt twice a day by <a href="https://github.com/LastArk123/LastArk123/actions">GitHub Actions</a></sub>
-
-</div>
-
----
-
 <h2 align="center">🎧 What I'm Listening To</h2>
 
 <div align="center">
