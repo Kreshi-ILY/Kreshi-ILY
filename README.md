@@ -121,7 +121,7 @@ Between physics, chemistry and maths, I build web apps, tools and bots, automate
 
 ---
 
-<h2 align="center">👾 Pac-Man</h2>
+<h2 align="center">👾 Contribution Arcade</h2>
 
 <div align="center">
   <picture>
