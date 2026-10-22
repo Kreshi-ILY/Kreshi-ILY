@@ -1,1 +1,12 @@
+{
+  "type": "normal",
+  "fileName": "profile-deadly.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#c9d1d9",
+  "strongColor": "#e0245e",
+  "weakColor": "#8b949e",
+  "radarColor": "#e0245e",
+  "growingAnimation": true,
+  "contribColors": ["#161b22", "#4a0e1f", "#8b0000", "#c4183c", "#ff2e63"]
+}
 
