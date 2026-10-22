@@ -1,10 +1,10 @@
 <div align="center">
 
 <a href="https://github.com/LastArk123">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=E0245E&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Sarthak;aka+Deadly;I+catch+cheaters+for+fun" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=E0245E&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Sarthak;aka+Deadly;Let+the+code+do+the+talking" alt="Typing SVG" />
 </a>
 
-**🎯 Building the tools that catch cheaters, one jar at a time.**
+**Quiet keyboard, loud commits.**
 
 <img src="https://img.shields.io/badge/Discord-deadly7.0__-8b0000?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" alt="Discord: deadly7.0_" />
 <a href="https://github.com/LastArk123"><img src="https://img.shields.io/badge/GitHub-LastArk123-e0245e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" /></a>
@@ -18,41 +18,20 @@
 
 <h2 align="center">🩸 About Me</h2>
 
-I'm **Sarthak Kashyap**, aka **Deadly**, an introvert who'd rather let the code do the talking. I mostly build tools for Minecraft servers, especially ones that help staff catch cheaters during screenshares without wasting anyone's time.
+I'm **Sarthak Kashyap**, aka **Deadly**. An introvert who'd rather let the code do the talking. I like building small tools, automating boring stuff and figuring out how things work under the hood.
 
-- 🔭 **Currently working on** [DeadlyModAnalyzer](https://github.com/LastArk123/DeadlyModAnalyzer), a mods-folder checker
-- 🌱 **Currently exploring** the Modrinth API, jar internals and how cheat clients hide themselves
-- ⚙️ **I care about** tools that give a straight answer and don't flag innocent players
+- 🔭 **Currently working on** scripts and tools that save me time
+- 🌱 **Currently exploring** new languages and whatever the next project needs
+- ⚙️ **I care about** code that's simple, fast and actually works
 - 🧪 **Always** vibe coding, breaking things and figuring out why they broke
-- 💬 **Ask me about** PowerShell, Minecraft mods and screenshare tooling
+- 💬 **Ask me about** PowerShell, scripting and Windows automation
 
 ---
 
 <h2 align="center">🛠️ I Code With</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=powershell,windows,java,git,github,vscode&theme=dark" alt="Skills" />
-</div>
-
----
-
-<h2 align="center">⚔️ Featured Project</h2>
-
-<div align="center">
-  <a href="https://github.com/LastArk123/DeadlyModAnalyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LastArk123&repo=DeadlyModAnalyzer&hide_border=true&bg_color=0d1117&title_color=e0245e&icon_color=e0245e&text_color=c9d1d9" alt="DeadlyModAnalyzer" />
-  </a>
-</div>
-
-<div align="center">
-
-| | What it does |
-|:-:|:--|
-| 🔍 | Verifies every jar against **Modrinth** by SHA-1 hash |
-| 🧬 | Scans jars for known **cheat-client signatures** |
-| 🚩 | Flags sneaky launch args like `-Dfabric.addMods` |
-| 🌐 | Shows where each file was **downloaded from** (Modrinth, Discord, MEGA…) |
-
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nextjs,nodejs,discordjs,postgres,mysql,mongodb,redis,docker,kubernetes,aws,jest,powershell,git,github,vscode&theme=dark&perline=10" alt="Skills" />
 </div>
 
 ---
@@ -64,7 +43,6 @@ I'm **Sarthak Kashyap**, aka **Deadly**, an introvert who'd rather let the code 
 | |
 |:--|
 | 🌙 My best code happens somewhere between midnight and 4 AM |
-| 🕵️ I've read more cheat-client class names than I'd like to admit |
 | 🤫 I'll explain my code to a rubber duck before I'll explain it to a person |
 | 🧩 Every "quick script" I write ends up 500 lines long |
 | 🔨 I break things on purpose. It's the fastest way to learn how they work |
@@ -82,16 +60,12 @@ I'm **Sarthak Kashyap**, aka **Deadly**, an introvert who'd rather let the code 
 
 ---
 
-<h2 align="center">👾 Contribution Arcade</h2>
+<h2 align="center">🌆 Contribution City</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LastArk123/LastArk123/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LastArk123/LastArk123/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/LastArk123/LastArk123/output/pacman-contribution-graph-dark.svg">
-  </picture>
+  <img src="./profile-3d-contrib/profile-deadly.svg" alt="3D contribution graph" width="100%" />
 
-  <sub>Generated twice a day by <a href="https://github.com/LastArk123/LastArk123/actions">GitHub Actions</a></sub>
+  <sub>Rebuilt twice a day by <a href="https://github.com/LastArk123/LastArk123/actions">GitHub Actions</a></sub>
 </div>
 
 ---
@@ -111,8 +85,8 @@ I'm **Sarthak Kashyap**, aka **Deadly**, an introvert who'd rather let the code 
 
 <div align="center">
 
-> *"Trust, but verify the hash."*
+> *"Make it work, make it right, make it fast."* — Kent Beck
 
-<sub>Thanks for stopping by. Go catch a cheater 🎯</sub>
+<sub>Thanks for stopping by ✌️</sub>
 
 </div>
