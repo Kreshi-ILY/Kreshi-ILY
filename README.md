@@ -26,7 +26,7 @@
 <h2 align="center">🩸 About Me</h2>
 
 <p align="left">
-I'm Sarthak, aka Deadly. I'm a 17-year-old Class 11 PCM + Computer Science student and an introvert who'd rather let the code do the talking.
+I'm Sarthak, aka Deadly. I'm a 17-year-old Class 11 PCM + Computer Science student and a guy who'd rather let the code do the talking.
 Between physics, chemistry and maths, I build web apps, tools and bots, automate the boring stuff, and dig into how things work under the hood.
 </p>
 
