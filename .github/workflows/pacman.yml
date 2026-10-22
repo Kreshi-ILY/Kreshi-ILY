@@ -5,7 +5,8 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches: [main]
+    branches:
+      - main
 
 jobs:
   generate:
@@ -13,15 +14,18 @@ jobs:
     timeout-minutes: 5
     permissions:
       contents: write
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Pac-Man SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/pacman.svg?type=pacman
-            dist/pacman-dark.svg?type=pacman&palette=github-dark
+            dist/pacman.svg
+            dist/pacman-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
