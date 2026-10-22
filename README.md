@@ -7,13 +7,13 @@
 </p>
 
 <img src="https://img.shields.io/badge/Discord-deadly7.0__-8b0000?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" alt="Discord" />
-<a href="https://github.com/LastArk123">
-  <img src="https://img.shields.io/badge/GitHub-LastArk123-e0245e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
+<a href="https://github.com/Kreshi-ILY">
+  <img src="https://img.shields.io/badge/GitHub-Kreshi--ILY-e0245e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
 </a>
 <a href="https://open.spotify.com/user/31iqqmqrxor2z6s6affht2xzv6ji">
   <img src="https://img.shields.io/badge/Spotify-Listening-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1a1a" alt="Spotify" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=LastArk123&label=Profile+Views&color=8b0000&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Kreshi-ILY&label=Profile+Views&color=8b0000&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -115,7 +115,7 @@ Between physics, chemistry and maths, I build web apps, tools and bots, automate
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LastArk123&locale=en&mode=daily&hide_border=false&border_radius=5&background=0d1117&border=30363d&ring=e0245e&fire=e0245e&currStreakNum=ffffff&sideNums=e0245e&currStreakLabel=e0245e&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" height="180" alt="streak graph" />
+<img src="https://streak-stats.demolab.com?user=Kreshi-ILY&locale=en&mode=daily&hide_border=false&border_radius=5&background=0d1117&border=30363d&ring=e0245e&fire=e0245e&currStreakNum=ffffff&sideNums=e0245e&currStreakLabel=e0245e&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" height="180" alt="streak graph" />
 
 </div>
 
@@ -138,7 +138,7 @@ Between physics, chemistry and maths, I build web apps, tools and bots, automate
   <a href="https://open.spotify.com/user/31iqqmqrxor2z6s6affht2xzv6ji" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/src/assets/icons/social/spotify/default.svg" width="55" height="40" alt="spotify logo" />
   </a>
-  <a href="https://github.com/LastArk123" target="_blank">
+  <a href="https://github.com/Kreshi-ILY" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo" />
   </a>
 </div>
