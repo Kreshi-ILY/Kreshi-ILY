@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=E0245E&center=true&vCenter=true&width=650&height=60&lines=Hey+%F0%9F%91%8B+I'm+Sarthak;aka+Deadly;17+%C2%B7+PCM+Student+%26+Developer;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Quiet+keyboard%2C+loud+commits" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=E0245E&center=true&vCenter=true&width=650&height=60&lines=Hey+%F0%9F%91%8B+I'm+Sarthak;aka+Deadly;17+%C2%B7+PCM+%2B+CS+Student;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Quiet+keyboard%2C+loud+commits" alt="Typing intro" />
 
 <p align="center">
-  <b>17 · Class 11 PCM Student · Full-Stack Developer</b>
+  <b>17 · Class 11 PCM + Computer Science Student · Full-Stack Developer</b>
 </p>
 
 <img src="https://img.shields.io/badge/Discord-deadly7.0__-8b0000?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" alt="Discord" />
@@ -26,7 +26,7 @@
 <h2 align="center">🩸 About Me</h2>
 
 <p align="left">
-I'm Sarthak, aka Deadly. I'm a 17-year-old Class 11 PCM student and an introvert who'd rather let the code do the talking.
+I'm Sarthak, aka Deadly. I'm a 17-year-old Class 11 PCM + Computer Science student and an introvert who'd rather let the code do the talking.
 Between physics, chemistry and maths, I build web apps, tools and bots, automate the boring stuff, and dig into how things work under the hood.
 </p>
 
@@ -137,7 +137,7 @@ Between physics, chemistry and maths, I build web apps, tools and bots, automate
 
 <div align="center">
   <a href="https://open.spotify.com/user/31iqqmqrxor2z6s6affht2xzv6ji">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iqqmqrxor2z6s6affht2xzv6ji&count=5" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31iqqmqrxor2z6s6affht2xzv6ji" alt="Spotify recently played" />
   </a>
 </div>
 
