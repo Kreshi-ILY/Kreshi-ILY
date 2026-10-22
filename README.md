@@ -148,9 +148,9 @@ Between physics, chemistry and maths, I build web apps, tools and bots, automate
   <a href="https://open.spotify.com/user/31iqqmqrxor2z6s6affht2xzv6ji" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/src/assets/icons/social/spotify/default.svg" width="55" height="40" alt="spotify logo" />
   </a>
-  <a href="https://github.com/Kreshi-ILY" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo" />
-  </a>
+<a href="https://github.com/Kreshi-ILY">
+  <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 </div>
 
 <p align="center">
